@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/olaf/Git/Muh_Kholaf_8020240158/build/linux/x64/debug/cmake_install.cmake",
-		"/home/olaf/Git/Muh_Kholaf_8020240158/build/linux/x64/debug/flutter/cmake_install.cmake",
-		"/home/olaf/Git/Muh_Kholaf_8020240158/build/linux/x64/debug/runner/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
